@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cooking</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="menu_nav">
+             <item name="Home">Home</item>
+            <item name="GetInspired">Get Inspired</item>
+            <item name="Categories">Categories</item>
+            <item name="Favorite">Favorite</item>
+            <item name="RecentViewed">Recent Viewed</item>
+            <item name="ShoppingList">Shopping List</item>
+            <item name="Snap">Snap Screen</item>
+
+    </string-array>
+</resources>
